@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "syntax-flow",
+    "transform-flow-strip-types",
+  ],
+  "passPerPreset": true,
+  "presets": [
+    "es2015",
+    "stage-0"
+  ]
+}

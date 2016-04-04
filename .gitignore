@@ -1,0 +1,6 @@
+secrets.js
+pid/*
+log/*
+node_modules/*
+data/schema.graphql
+data/schema.json
